@@ -92,11 +92,14 @@
 			<button>Januari 2023</button>
 		</section>
 	</main>
-	<h1>RESTO DENY SEAFOOD</h1>
+	## Tabel
+| Saldo | Tumbuh | Total |
+| ----- | ------ | ----- |
+| A     | B      | C     |
 
 </h2>
 	<footer>
-		<p>&copy; April 2023 Resto Deny Seafood</p>
+		<p>&copy; Januari 2024 GetBos</p>
 	</footer>
 </body>
 </html>
