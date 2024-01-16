@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Resto Deny Seafood</title>
+	<title>GetBos</title>
 	<style>
 		body {
   font-family: sans-serif;
@@ -73,7 +73,7 @@
 </head>
 <body>
 	<header>
-		<h1>Resto Deny Seafood</h1>
+		<h1>Tabel GetBos</h1>
 	</header>
 	<nav>
 		<a href="#">Halaman Depan</a>
@@ -91,75 +91,9 @@
 			<p>Gambar lokasi tampak depan.</p>
 			<button>Januari 2023</button>
 		</section>
-		<section>
-			<img src="https://pbs.twimg.com/media/FujFaq0aUAIvnAK?format=jpg" alt="Gambar Depan 3">
-			<p>Banner Depan<p>
-			<button>April 2023</button>
-		</section>
-		<section>
-			<img src="https://pbs.twimg.com/media/FuoUIAhaEAcqOjC?format=jpg" alt="Gambar Depan 4">
-			<p>Proses steam<p>
-			<button>April 2023</button>
-		</section>
-		<section>
-			<img src="https://pbs.twimg.com/media/Fuow2T7aYAECUAF?format=jpg" alt="Gambar Depan 4">
-			<p>Siap Antar<p>
-			<button>April 2023</button>
-		</section>
-		<section>
-			<img src="https://pbs.twimg.com/media/FuotYroaQAcY3Rr?format=jpg" alt="Gambar Depan 4">
-			<p>Gurami Bakar Rp.55rb<p>
-			<button>April 2023</button>
-		</section>
-		<section>
-			<img src="https://pbs.twimg.com/media/FuowAHWacAEef1L?format=jpg" alt="Gambar Depan 4">
-			<p>Proses Udang Bakar Madu<p>
-			<button>April 2023</button>
-		</section>
-		<section>
-			<img src="https://pbs.twimg.com/media/FuowCNHaIAIzITN?format=jpg" alt="Gambar Depan 4">
-			<p>Udang Bakar Madu Rp.35rb<p>
-			<button>April 2023</button>
-		</section>
 	</main>
 	<h1>RESTO DENY SEAFOOD</h1>
-<p>Makanan Bergizi Yang Dikelolah Oleh Koki Profesional</p>
-<h2>Menu Makanan</p>
-<p>• Kepiting Steam Rp.80k</p>
-<p>• Kepiting Saos Tiram Rp.85k</p>
-<p>• Kepiting Asam Manis Rp.82k</p>
-<p>• Kepiting Asam Pedas Rp.82k</p>
-<p>• Kepiting Mentega Rp.82k</p>
-<p>• Kepiting Telor Asin Rp.85k</p>
-<p>• Kepiting Lada Hitam Rp.85k</p>
-<p>• Kerapu Steam Rp.65k</p>
-<p>• Cumi Tepung Rp.30k</p>
-<p>• Cumi Saos Tiram Rp.35k</p>
-<p>• Cumi Asam Manis Rp.32k</p>
-<p>• Cumi Asam Pedas Rp.32k</p>
-<p>• Cumi Mentega Rp.32k</p>
-<p>• Cumi Telor Asin Rp.35k</p>
-<p>• Cumi Lada Hitam Rp.35k</p>
-<p>• Udang Tepung Rp.32k</p>
-<p>• Udang Bakar Asam Pedas Rp.35k<p>
-<p>• Udang Saos Tiram Rp.35k</p>
-<p>• Udang Asam Manis Rp.35k</p>
-<p>• Udang Asam Pedas Rp.35k</p>
-<p>• Udang Mentega Rp.35k</p>
-<p>• Udang Lada Hitam Rp.38k</p>
-<p>• Udang Telor Asins Rp.38k</p>
-<p>• Nila Goreng Rp.25k</p>
-<p>• Nila Mangut Rp.28k</p>
-<p>• Nila Bakar Rp.25k</p>
-<p>• Nila Asam Pedas Rp.30k</p>
-<p>• Nila Asam Manis Rp.28k</p>
-<p>• Nila Lada Hitam Rp.30k</p>
-<p>• Lele Goreng Rp.20k</p>
-<p>• Lele Bakar Rp.23k</p>
-<p>• Lele Mangut Rp.25k</p>
-<p>• Lele Asam Manis Rp.25k</p>
-<p>• Lele Asam Pedas Rp.25k</p>
-<p>• Lele Lada Hitam Rp.25k</p>
+
 </h2>
 	<footer>
 		<p>&copy; April 2023 Resto Deny Seafood</p>
