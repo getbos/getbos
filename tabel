@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Resto Deny Seafood</title>
+	<style>
+		body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+		header {
+			background-color: #FF0000;
+			color: #fff;
+			padding: 20px;
+		}
+		h1 {
+			margin: 0;
+		}
+		nav {
+			background-color: #444;
+			color: #fff;
+			padding: 10px;
+		}
+		nav a {
+			color: #fff;
+			text-decoration: none;
+			margin-right: 20px;
+		}
+		nav a:hover {
+			color: #ccc;
+		}
+		main {
+			padding: 20px;
+		}
+		section {
+			background-color: #f2f2f2;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+			flex-basis: 48%;
+			padding: 20px;
+			margin-bottom: 20px;
+		}
+		img {
+			display: block;
+			margin: 0 auto 10px;
+			max-width: 100%;
+			height: auto;
+		}
+		button {
+			background-color: #333;
+			border: none;
+			border-radius: 3px;
+			color: #fff;
+			cursor: pointer;
+			padding: 10px;
+			text-transform: uppercase;
+		}
+		button:hover {
+			background-color: #444;
+		}
+		footer {
+  background-color: #f8f8f8;
+  color: #555;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  box-shadow: 0 0 10px #888888;
+  position: relative;
+}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Resto Deny Seafood</h1>
+	</header>
+	<nav>
+		<a href="#">Halaman Depan</a>
+		<a href="#">Harga Menu</a>
+		<a href="https://api.whatsapp.com/send?phone=628999587888">WhatApps</a>
+	</nav>
+	<main>
+		<section>
+			<img src="https://storageapi.fleek.one/849e84aa-2370-4574-a978-66e12fceba4f-bucket/a12.jpg" alt="Gambar Berita 1">
+			<p>Gambar Papan Nama Resto Deny Seafood.</p>
+			<button>Desember 2022</button>
+		</section>
+		<section>
+			<img src="https://pbs.twimg.com/media/Fld4l2NaEAUSlrR?format=jpg" alt="Gambar Berita 2">
+			<p>Gambar lokasi tampak depan.</p>
+			<button>Januari 2023</button>
+		</section>
+		<section>
+			<img src="https://pbs.twimg.com/media/FujFaq0aUAIvnAK?format=jpg" alt="Gambar Depan 3">
+			<p>Banner Depan<p>
+			<button>April 2023</button>
+		</section>
+		<section>
+			<img src="https://pbs.twimg.com/media/FuoUIAhaEAcqOjC?format=jpg" alt="Gambar Depan 4">
+			<p>Proses steam<p>
+			<button>April 2023</button>
+		</section>
+		<section>
+			<img src="https://pbs.twimg.com/media/Fuow2T7aYAECUAF?format=jpg" alt="Gambar Depan 4">
+			<p>Siap Antar<p>
+			<button>April 2023</button>
+		</section>
+		<section>
+			<img src="https://pbs.twimg.com/media/FuotYroaQAcY3Rr?format=jpg" alt="Gambar Depan 4">
+			<p>Gurami Bakar Rp.55rb<p>
+			<button>April 2023</button>
+		</section>
+		<section>
+			<img src="https://pbs.twimg.com/media/FuowAHWacAEef1L?format=jpg" alt="Gambar Depan 4">
+			<p>Proses Udang Bakar Madu<p>
+			<button>April 2023</button>
+		</section>
+		<section>
+			<img src="https://pbs.twimg.com/media/FuowCNHaIAIzITN?format=jpg" alt="Gambar Depan 4">
+			<p>Udang Bakar Madu Rp.35rb<p>
+			<button>April 2023</button>
+		</section>
+	</main>
+	<h1>RESTO DENY SEAFOOD</h1>
+<p>Makanan Bergizi Yang Dikelolah Oleh Koki Profesional</p>
+<h2>Menu Makanan</p>
+<p>• Kepiting Steam Rp.80k</p>
+<p>• Kepiting Saos Tiram Rp.85k</p>
+<p>• Kepiting Asam Manis Rp.82k</p>
+<p>• Kepiting Asam Pedas Rp.82k</p>
+<p>• Kepiting Mentega Rp.82k</p>
+<p>• Kepiting Telor Asin Rp.85k</p>
+<p>• Kepiting Lada Hitam Rp.85k</p>
+<p>• Kerapu Steam Rp.65k</p>
+<p>• Cumi Tepung Rp.30k</p>
+<p>• Cumi Saos Tiram Rp.35k</p>
+<p>• Cumi Asam Manis Rp.32k</p>
+<p>• Cumi Asam Pedas Rp.32k</p>
+<p>• Cumi Mentega Rp.32k</p>
+<p>• Cumi Telor Asin Rp.35k</p>
+<p>• Cumi Lada Hitam Rp.35k</p>
+<p>• Udang Tepung Rp.32k</p>
+<p>• Udang Bakar Asam Pedas Rp.35k<p>
+<p>• Udang Saos Tiram Rp.35k</p>
+<p>• Udang Asam Manis Rp.35k</p>
+<p>• Udang Asam Pedas Rp.35k</p>
+<p>• Udang Mentega Rp.35k</p>
+<p>• Udang Lada Hitam Rp.38k</p>
+<p>• Udang Telor Asins Rp.38k</p>
+<p>• Nila Goreng Rp.25k</p>
+<p>• Nila Mangut Rp.28k</p>
+<p>• Nila Bakar Rp.25k</p>
+<p>• Nila Asam Pedas Rp.30k</p>
+<p>• Nila Asam Manis Rp.28k</p>
+<p>• Nila Lada Hitam Rp.30k</p>
+<p>• Lele Goreng Rp.20k</p>
+<p>• Lele Bakar Rp.23k</p>
+<p>• Lele Mangut Rp.25k</p>
+<p>• Lele Asam Manis Rp.25k</p>
+<p>• Lele Asam Pedas Rp.25k</p>
+<p>• Lele Lada Hitam Rp.25k</p>
+</h2>
+	<footer>
+		<p>&copy; April 2023 Resto Deny Seafood</p>
+	</footer>
+</body>
+</html>
