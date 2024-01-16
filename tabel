@@ -73,31 +73,15 @@
 </head>
 <body>
 	<header>
-		<h1>Tabel GetBos</h1>
+		<h1>GetBos</h1>
 	</header>
 	<nav>
 		<a href="#">Halaman Depan</a>
 		<a href="#">Harga Menu</a>
 		<a href="https://api.whatsapp.com/send?phone=628999587888">WhatApps</a>
 	</nav>
-	<main>
-		<section>
-			<img src="https://storageapi.fleek.one/849e84aa-2370-4574-a978-66e12fceba4f-bucket/a12.jpg" alt="Gambar Berita 1">
-			<p>Gambar Papan Nama Resto Deny Seafood.</p>
-			<button>Desember 2022</button>
-		</section>
-		<section>
-			<img src="https://pbs.twimg.com/media/Fld4l2NaEAUSlrR?format=jpg" alt="Gambar Berita 2">
-			<p>Gambar lokasi tampak depan.</p>
-			<button>Januari 2023</button>
-		</section>
-	</main>
-	## Tabel
-| Saldo | Tumbuh | Total |
-| ----- | ------ | ----- |
-| A     | B      | C     |
+	
 
-</h2>
 	<footer>
 		<p>&copy; Januari 2024 GetBos</p>
 	</footer>
