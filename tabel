@@ -6,8 +6,8 @@
 	<style>
 		body {
                        font-family: sans-serif;
-                       margin: 0;
-                       padding: 0;
+                       margin: 20px;
+                       padding: 20px;
                        text-align: center;
                       }
 		header {
@@ -16,7 +16,7 @@
 			padding: 20px;
 		        }
 		h1 {
-			margin: 0;
+			margin: 20px;
 		}
 		nav {
 			background-color: #444;
@@ -84,11 +84,11 @@
 
 <p> Keyakinan Anda harus didasarkan pada siapa diri Anda, bukan pada apa yang Anda miliki.</p>
 
-Semua yang Anda miliki dapat diambil dari Anda, dan mungkin suatu saat akan hilang.
+<p> Semua yang Anda miliki dapat diambil dari Anda, dan mungkin suatu saat akan hilang.</p>
 
-Siapa diri Anda tidak akan pernah bisa diambil dari Anda.
+<p> Siapa diri Anda tidak akan pernah bisa diambil dari Anda.</p>
 
-Lihat diri Anda sebagai trader profesional. Sejajarkan pikiran dan tindakan setiap hari. Kesuksesan mengikuti konsistensi. 📈💭
+<p> Lihat diri Anda sebagai trader profesional. Sejajarkan pikiran dan tindakan setiap hari. Kesuksesan mengikuti konsistensi. 📈💭</p>
 
 
 	<footer>
