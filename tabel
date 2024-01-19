@@ -6,8 +6,8 @@
 	<style>
 		body {
                        font-family: sans-serif;
-                       margin: 20px;
-                       padding: 50px;
+                       margin: 50px;
+                       padding: 10px;
                        text-align: center;
                       }
 		header {
@@ -61,12 +61,14 @@
 			background-color: #444;
 		        }
 		footer {
-                         background-color: #f8f8f8;
-                         color: #555;
+                         background-color: #7c7c7c;
+                         color: #168;
                          padding: 20px;
                          text-align: center;
                          font-size: 14px;
-                         box-shadow: 0 0 10px #888888;
+                         border: 1px solid;
+                         padding: 10px;
+                         box-shadow: 5px 10px;
                          position: relative;
                         }
 	</style>
