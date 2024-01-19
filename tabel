@@ -7,7 +7,7 @@
 		body {
                        font-family: sans-serif;
                        margin: 1px;
-                       padding: 1px;
+                       padding: 30px;
                        text-align: center;
                       }
 		header {
@@ -46,12 +46,10 @@
                         border: 1px solid #ddd;
                         text-align: left;
                         }
-
                   table {
                         border-collapse: collapse;
                         width: 100%;
                         }
-
                 th, td {
                         padding: 15px;
                         }
@@ -88,7 +86,7 @@
 </head>
 <body>
 	<header>
-		<h1>GetBos</h1>
+		<h1>Gate Economy Trade Bitcoin and Other Stuff</h1>
 	</header>
 	<nav>
 		<a href="https://bitcoin.org/id">Bitcoin</a>
@@ -142,11 +140,9 @@
     <td>$250</td>
   </tr>
 
-
-
 	<footer>
 		<p>&copy; Januari 2024 GetBos</p>
-<p> Lihat diri Anda sebagai trader profesional. Sejajarkan pikiran dan tindakan setiap hari. Kesuksesan mengikuti konsistensi. 📈💭</p>
+                <p> Lihat diri Anda sebagai trader profesional. Sejajarkan pikiran dan tindakan setiap hari. Kesuksesan mengikuti konsistensi. 📈💭</p>
 	</footer>
 </body>
 </html>
