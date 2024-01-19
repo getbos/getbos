@@ -5,16 +5,16 @@
 	<title>GetBos</title>
 	<style>
 		body {
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
+                       font-family: sans-serif;
+                       margin: 0;
+                       padding: 0;
+                       text-align: center;
+                      }
 		header {
 			background-color: #FF8000;
 			color: #fff;
 			padding: 20px;
-		}
+		        }
 		h1 {
 			margin: 0;
 		}
@@ -41,7 +41,7 @@
 			flex-basis: 48%;
 			padding: 20px;
 			margin-bottom: 20px;
-		}
+		        }
 		img {
 			display: block;
 			margin: 0 auto 10px;
@@ -56,19 +56,19 @@
 			cursor: pointer;
 			padding: 10px;
 			text-transform: uppercase;
-		}
-		button:hover {
+		        }
+           button:hover {
 			background-color: #444;
-		}
+		        }
 		footer {
-  background-color: #f8f8f8;
-  color: #555;
-  padding: 20px;
-  text-align: center;
-  font-size: 14px;
-  box-shadow: 0 0 10px #888888;
-  position: relative;
-}
+                         background-color: #f8f8f8;
+                         color: #555;
+                         padding: 20px;
+                         text-align: center;
+                         font-size: 14px;
+                         box-shadow: 0 0 10px #888888;
+                         position: relative;
+                        }
 	</style>
 </head>
 <body>
@@ -79,7 +79,9 @@
 		<a href="#">Halaman Depan</a>
 		<a href="https://getbos.github.io">GitHub</a>
 	</nav>
-	Keyakinan Anda harus didasarkan pada siapa diri Anda, bukan pada apa yang Anda miliki.
+	
+<h1> Pengingat bagi diri kita </h1>
+<p> Keyakinan Anda harus didasarkan pada siapa diri Anda, bukan pada apa yang Anda miliki.</p>
 
 Semua yang Anda miliki dapat diambil dari Anda, dan mungkin suatu saat akan hilang.
 
