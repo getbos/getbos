@@ -6,14 +6,14 @@
 	<style>
 		body {
                        font-family: sans-serif;
-                       margin: 50px;
-                       padding: 10px;
+                       margin: 1px;
+                       padding: 1px;
                        text-align: center;
                       }
 		header {
 			background-color: #FF8000;
 			color: #fff;
-			padding: 20px;
+			padding: 1px;
 		        }
 		h1 {
 			margin: 20px;
@@ -42,6 +42,19 @@
 			padding: 20px;
 			margin-bottom: 20px;
 		        }
+         table, td, th {  
+                        border: 1px solid #ddd;
+                        text-align: left;
+                        }
+
+                  table {
+                        border-collapse: collapse;
+                        width: 100%;
+                        }
+
+                th, td {
+                        padding: 15px;
+                        }
 		img {
 			display: block;
 			margin: 0 auto 10px;
@@ -97,6 +110,37 @@
 <p> Mulailah meningkatkan sistem, eksekusi, dan pengendalian emosi Anda. </p>
 
 <p> Berdagang. Lebih baik. Jadilah sukses. </p>
+
+<h2>The padding Property</h2>
+
+<p>This property adds space between the border and the content in a table.</p>
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>Peter</td>
+    <td>Griffin</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Lois</td>
+    <td>Griffin</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>Joe</td>
+    <td>Swanson</td>
+    <td>$300</td>
+  </tr>
+  <tr>
+    <td>Cleveland</td>
+    <td>Brown</td>
+    <td>$250</td>
+  </tr>
 
 
 
