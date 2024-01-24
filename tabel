@@ -36,10 +36,10 @@
     <a href="#home" class="w3-bar-item w3-button w3-wide">GetBos</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
-      <a href="#about" class="w3-bar-item w3-button">Penjelasan</a>
-      <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i>Anggota</a>
-      <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i>Kerja</a>
-      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> Harga</a>
+      <a href="#uraian" class="w3-bar-item w3-button"> Uraian</a>
+      <a href="#anggota" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Anggota</a>
+      <a href="#kerja" class="w3-bar-item w3-button"><i class="fa fa-th"></i> Kerja</a>
+      <a href="#harga" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> Harga</a>
       <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> Penghubung</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
