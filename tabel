@@ -19,7 +19,7 @@
     .bgimg-1 {
       background-position: center;
       background-size: cover;
-      background-image: url("https://bitcoin.design/assets/images/profile-picture.jpg");
+      background-image: url("https://nosta.me/_nuxt/bubbles_2x.f5de96a8.jpg");
       min-height: 100%;
     }
 
@@ -40,7 +40,7 @@
       <a href="#anggota" class="w3-bar-item w3-button"><i class="fa fa-user"></i> Anggota</a>
       <a href="#kerja" class="w3-bar-item w3-button"><i class="fa fa-th"></i> Kerja</a>
       <a href="#harga" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> Harga</a>
-      <a href="#contact" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> Penghubung</a>
+      <a href="#penghubung" class="w3-bar-item w3-button"><i class="fa fa-envelope"></i> Penghubung</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -115,7 +115,7 @@
       <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> Lihat Perdagangan Kami</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="https://www.w3schools.com/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+      <img class="w3-image w3-round-large" src="https://media.primal.net/uploads/d/92/28/d922890405e97bf48d868941c73b4d1313126ac58583371944faa5e6066e1583.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
