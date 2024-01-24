@@ -140,22 +140,22 @@
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="https://www.w3schools.com/w3images/team1.jpg" alt="Jane" style="width:100%">
+        <img src="https://i.imgur.com/WLzXVUp.jpg" alt="Jane" style="width:100%">
         <div class="w3-container">
           <h3>Anja Doe</h3>
           <p class="w3-opacity">Art Director</p>
-          <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+          <p>Ketenangan merupakan sifat alam. Alam tidak terburu-buru.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card">
-        <img src="https://www.w3schools.com/w3images/team3.jpg" alt="Mike" style="width:100%">
+        <img src="https://primal.b-cdn.net/media-cache?s=o&a=1&u=https%3A%2F%2Fi.nostrimg.com%2Fc681f3ee35b65def4062590abd068ffbaec5f183e89130275fab29273a756d9d%2Ffile.png" alt="Mike" style="width:100%">
         <div class="w3-container">
           <h3>Mike Ross</h3>
           <p class="w3-opacity">Web Designer</p>
-          <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+          <p>Bingkai adalah penghias sesuatu yang sudah bernilai. Takdir menyukai misteri. Masa depan menyukai kecanggihan.</p>
           <p><button class="w3-button w3-light-grey w3-block"><i class="fa fa-envelope"></i> Contact</button></p>
         </div>
       </div>
@@ -201,7 +201,7 @@
 
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-col l3 m6">
-      <img src="https://image.nostr.build/nostr.build_c685e795820b77edf38c7718beb1af1461f67be79f9f10de9cacaaeb78011948.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A microphone">
+      <img src="https://image.nostr.build/nostr.build_c685e795820b77edf38c7718beb1af1461f67be79f9f10de9cacaaeb78011948.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Wanita Putih">
     </div>
     <div class="w3-col l3 m6">
       <img src="https://www.w3schools.com/w3images/tech_phone.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A phone">
