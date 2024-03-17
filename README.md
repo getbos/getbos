@@ -8,6 +8,6 @@
 - Address Bitcoin Donation: 1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK
 
 <!---
-getbos/getbos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vivid Beloved/Beloved is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
