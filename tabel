@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Excel-like Table</title>
+<title>Aset Dalam Satoshi</title>
 <style>
     table {
         border-collapse: collapse;
@@ -57,6 +57,11 @@
             <td><a href="https://mempool.space/address/1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK" target="_blank"><img src="https://img.shields.io/badge/1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK"><a/></td>
             <td>980</td>
             <td>$0.61</td>
+        </tr>
+        <tr>
+            <td><a href="https://bitinfocharts.com/bitcoin/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B" target="_blank"><img src="https://img.shields.io/badge/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B"><a/></td>
+            <td>50,066</td>
+            <td>$33.82</td>
         </tr>
         <!-- tambahkan baris tambahan di sini -->
     </tbody>
