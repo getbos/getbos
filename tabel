@@ -24,7 +24,7 @@
 </head>
 <body>
 <div align="center">
-<a class="text-black" href="https://beloved.on-fleek.app/" target="_blank">Beloved App</a> | 
+<a class="text-black" href="https://beloved.on-fleek.app/">Beloved App</a> | 
 </div>
 <table>
     <thead>
@@ -36,22 +36,32 @@
     </thead>
     <tbody>
         <tr>
-            <td>getalby 1</td>
+            <td>Getalby 1</td>
             <td>4,982</td>
             <td>$3.13</td>
         </tr>
         <tr>
-            <td>getalby 2</td>
+            <td>Getalby 2</td>
             <td>2,212</td>
             <td>$1.39</td>
         </tr>
         <tr>
-            <td>getalby 3</td>
+            <td>Getalby 3</td>
             <td>30</td>
             <td>$0.02</td>
         </tr>
         <tr>
-            <td>getalby 4</td>
+            <td>Getalby 4</td>
+            <td>42</td>
+            <td>$0.03</td>
+        </tr>
+       <tr>
+            <td>Binance</td>
+            <td>22,243</td>
+            <td>$15.54</td>
+        </tr>
+        <tr>
+            <td>Primal</td>
             <td>42</td>
             <td>$0.03</td>
         </tr>
