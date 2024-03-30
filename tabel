@@ -28,8 +28,8 @@
     <thead>
         <tr>
             <th>Akun</th>
-            <th>Modal (satoshi)</th>
-            <th>Modal (dolar)</th>
+            <th>Saldo (satoshi)</th>
+            <th>Saldo (dolar)</th>
         </tr>
     </thead>
     <tbody>
@@ -64,9 +64,9 @@
             <td>$33.82</td>
         </tr>
         <tr>
-            <td><a href="https://stellarchain.io/accounts/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX" target="_blank"><img src="https://img.shields.io/badge/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX-fc6d26.svg?style=flat-square&logo=stellar&logoColor=white" alt="GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX"><a/></td>
-            <td>10005</td>
-            <td>$6.9934</td>
+            <td><a href="https://stellarchain.io/accounts/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX" target="_blank"><img src="https://img.shields.io/badge/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX-003956.svg?style=flat-square&logo=stellar&logoColor=white" alt="GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX"><a/></td>
+            <td>10,005</td>
+            <td>$6.99</td>
         </tr>
         <!-- tambahkan baris tambahan di sini -->
     </tbody>
