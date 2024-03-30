@@ -61,9 +61,9 @@
             <td>$15.54</td>
         </tr>
         <tr>
-            <td>Primal</td>
-            <td>42</td>
-            <td>$0.03</td>
+            <td>Primal Evo</td>
+            <td>2000</td>
+            <td>$1.40</td>
         </tr>
         <tr>
             <td><a href="https://mempool.space/address/1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK" target="_blank"><img src="https://img.shields.io/badge/1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK-fc6d26.svg?style=flat-square&logo=bitcoin&logoColor=white" alt="1BitcoinX1PpTdriS5pNUh7RSD3eggp6HK"><a/></td>
@@ -79,6 +79,11 @@
             <td><a href="https://stellarchain.io/accounts/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX" target="_blank"><img src="https://img.shields.io/badge/GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX-003956.svg?style=flat-square&logo=stellar&logoColor=white" alt="GBKKLIQDHY4ZJYVCLKY26ZU6PMWXYJPXNRTJCBDPDTGMPVBB6OC27MWX"><a/></td>
             <td>10,005</td>
             <td>$6.99</td>
+        </tr>
+        <tr>
+            <td>Total Saldo</td>
+            <td>92,560</td>
+            <td>$64.97</td>
         </tr>
         <!-- tambahkan baris tambahan di sini -->
     </tbody>
