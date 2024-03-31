@@ -24,7 +24,8 @@
 </head>
 <body>
 <div align="center">
-<a class="text-black" href="https://beloved.on-fleek.app/">Beloved App</a> | 
+<a class="text-black" href="https://beloved.on-fleek.app/">Beloved App</a> 
+<button class="copy-btn" onclick="copyCode()">Halo Sayang yang cantik</button>
 </div>
 <table>
     <thead>
