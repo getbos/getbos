@@ -91,7 +91,7 @@
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color: #333;
+      background-color: #1c0bd0;
       color: white;
       text-align: center;
       padding: 10px 0;
@@ -110,7 +110,7 @@
 <body>
   <div align="center">
     <button class="copy-btn" onclick="copyCode()">
-      <a class="text-black" href="https://beloved.on-fleek.app/">Beloved App</a>
+      <a class="text-black" href="https://beloved.on-fleek.app/">Beloved Portofolio</a>
     </button>
   </div>
 
