@@ -103,10 +103,13 @@
   </style>
 </head>
 <body>
-<div align="center">
-<a class="text-black" href="https://beloved.on-fleek.app/">Beloved App</a> 
-<button class="copy-btn" onclick="copyCode()">Halo Sayang yang cantik</button>
-</div>
+    <div align="center">
+        <button class="copy-btn" onclick="copyCode()">
+            <a class="text-black" href="https://beloved.on-fleek.app/">Beloved App</a>
+        </button>
+    </div>
+</body>
+
 <table>
     <thead>
         <tr>
