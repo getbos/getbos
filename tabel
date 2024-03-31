@@ -5,7 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Portofolio Beloved</title>
   <link rel="icon" type="image/svg+xml" href="/beloved.svg" />
-  
+  <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
     h1 {
       font-size: 3.2em;
       line-height: 1.1;
@@ -68,10 +80,27 @@
       button {
         background-color: #f9f9f9;
       }
-    }
+    .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
   </style>
-
-
 </head>
 <body>
 <div align="center">
@@ -143,10 +172,9 @@
     <p>
       <button class="card" > uji coba</button>
     </p>
-    <img src="beloved.svg" class="logo vanilla" alt="Vanilla Logo">
     </main>
-   <footer>
+ <footer class="footer">
         <p>Hak Cipta &copy; 2024 Website Kami. All rights reserved.</p>
-    </footer>
+</footer>
 </body>
 </html>
