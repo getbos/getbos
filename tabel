@@ -109,9 +109,7 @@
 </head>
 <body>
   <div align="center">
-    <button class="copy-btn" onclick="copyCode()">
-      <a class="text-black" href="https://beloved.on-fleek.app/">Beloved Portofolio</a>
-    </button>
+<h1>Beloved Portofolio</h1>
   </div>
 
   <table>
